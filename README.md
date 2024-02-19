@@ -3,9 +3,13 @@
 
 1. [About this Project](#about-this-project)
 2. [Data Exploration](#data-exploration)
-   i. [Exploring Data Set](#exploring-data-set)
+   
+   i. [Exploring the Data Sets](#exploring-the-data-sets)
+   
    ii. [Data Dictionary](#data-dictionary)
-   iii. [Visualizations](#visualization)
+   
+   iii. [Visualizations](#visualizations)
+   
 4. [Data](#data)
 5. [Project Poster](project-Poster)
 6. [Use, Licensing, Attribution](#use-licensing-attribution)
@@ -20,7 +24,7 @@
 
 ## Data Exploration
 -
-### Exploring the Data set
+### Exploring the Data sets
 
 ### Data Dictionary
 
