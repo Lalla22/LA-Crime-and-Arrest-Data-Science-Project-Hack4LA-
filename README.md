@@ -42,7 +42,7 @@
 - Data provided by Los Angeles Police Department.
 - Dataset Owners (LAPD OpenData)
 ### Crime Data
- - This dataset reflects incidents of crime in the City of Los Angeles from 2010 - 2019. This data is transcribed from original crime reports that are typed on paper and therefore there may be some inaccuracies within the data. Some location fields with missing data are noted as (0°, 0°).Address fields are only provided to the nearest hundred block in order to maintain privacy.
+ - This dataset reflects incidents of crime in the City of Los Angeles from 2010 - 2019. This data is transcribed from original crime reports that are typed on paper and therefore there may be some inaccuracies within the data. Some location fields with missing data are noted as (0°, 0°). Address fields are only provided to the nearest hundred block in order to maintain privacy.
    - Records
    
          Rows: 2.12M
