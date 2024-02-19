@@ -37,7 +37,7 @@
 
 
 ## Data 
-- Both data sets are hosted by the city of Los Angeles. The orgainzation has an open data platform [found here](https://data.lacity.org/), and they update thier information according to the amount od data that is brought in. Data was uploaded on to kaggle and can be [found here](https://www.kaggle.com/datasets/cityofLA/los-angeles-crime-arrest-data/data) to download and review.
+- Both data sets are hosted by the city of Los Angeles. The orgainzation has an open data platform [found here](https://data.lacity.org/), and they update thier information according to the amount of data that is brought in. Data was uploaded on to kaggle and can be [found here](https://www.kaggle.com/datasets/cityofLA/los-angeles-crime-arrest-data/data) to download and review.
 - Update Frequency: This dataset is updated weekly.
 - Data provided by Los Angeles Police Department.
 - Dataset Owners (LAPD OpenData)
