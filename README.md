@@ -40,8 +40,8 @@ Pair plots to visualize pairwise relationships between numerical variables.
 Correlation Analysis: A correlation matrix was computed and visualized using a heatmap to identify correlations between numerical variables. 
 
 Skewness and Kurtosis Analysis: Skewness and kurtosis were calculated to assess the symmetry and peakedness of the distribution of numerical data. 
-
 Overall, these data exploration techniques were employed to gain insights into the structure, patterns, and relationships within the arrest and crime data for the city of Los Angeles.
+
 -
 ### Exploring the Data sets
 
