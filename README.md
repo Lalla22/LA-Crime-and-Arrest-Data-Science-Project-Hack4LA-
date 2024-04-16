@@ -23,7 +23,7 @@
 
 
 ## About this Project
--
+This project centers on leveraging data exploration techniques to analyze arrest data provided by the Los Angeles Police Department spanning the years 2010 to 2019. With datasets comprising over 1 million records each, the analysis delves into crime incidents and arrests to extract insights into crime patterns, demographic trends, and geographic hotspots. The aim is to inform the development of targeted public safety awareness initiatives and proactive strategies for crime prevention. Through the utilization of machine learning algorithms, tailored public awareness campaigns, and collaborative partnerships, the project seeks to empower residents and law enforcement agencies to work together towards creating safer communities in Los Angeles.
 
 
 
@@ -63,10 +63,8 @@
  - Link to [dataset](https://data.lacity.org/Public-Safety/Arrest-Data-from-2010-to-2019/yru6-6re4/about_data).
 
 ## Project Poster
-
+![Hack4LA Public Saftey Awarness Project picture](https://github.com/Lalla22/LA-Crime-and-Arrest-Data-Science-Project-Hack4LA-/assets/47159210/0e2295ee-1287-4e8d-8f78-28b3962b7f30)
 
 ## Use, Licensing, Attribution
 The dataset used is maintained using Socrata's API and Kaggle's API. Socrata has assisted countless organizations with hosting their open data and has been an integral part of the process of bringing more data to the public.
-
 This dataset used is distributed under the following licenses: Creative Commons 1.0 Universal (Public Domain Dedication)
-
