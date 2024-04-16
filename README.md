@@ -23,7 +23,7 @@
 
 
 ## About this Project
--This project centers on leveraging data exploration techniques to analyze arrest data provided by the Los Angeles Police Department spanning the years 2010 to 2019. With datasets comprising over 1 million records each, the analysis delves into crime incidents and arrests to extract insights into crime patterns, demographic trends, and geographic hotspots. The aim is to inform the development of targeted public safety awareness initiatives and proactive strategies for crime prevention. Through the utilization of machine learning algorithms, tailored public awareness campaigns, and collaborative partnerships, the project seeks to empower residents and law enforcement agencies to work together towards creating safer communities in Los Angeles.
+This project centers on leveraging data exploration techniques to analyze arrest data provided by the Los Angeles Police Department spanning the years 2010 to 2019. With datasets comprising over 1 million records each, the analysis delves into crime incidents and arrests to extract insights into crime patterns, demographic trends, and geographic hotspots. The aim is to inform the development of targeted public safety awareness initiatives and proactive strategies for crime prevention. Through the utilization of machine learning algorithms, tailored public awareness campaigns, and collaborative partnerships, the project seeks to empower residents and law enforcement agencies to work together towards creating safer communities in Los Angeles.
 
 
 
