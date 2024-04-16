@@ -1,4 +1,4 @@
-# Hack 4 LA: Los Angelos Crime & Arrest Datasets, Data Exploration, and Visualizations
+# Hack 4 LA: Los Angeles Crime & Arrest Datasets, Data Exploration, and Visualizations
 
 
 1. [About this Project](#about-this-project)
