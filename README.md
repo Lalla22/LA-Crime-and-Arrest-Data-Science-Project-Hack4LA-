@@ -28,6 +28,20 @@ This project centers on leveraging data exploration techniques to analyze arrest
 
 
 ## Data Exploration
+Descriptive Statistics: Descriptive statistics such as mean, median, mode, standard deviation, minimum, and maximum were computed for numerical columns to understand the central tendency and variability of the data.
+
+Data Visualization: Various data visualization techniques were employed to visually explore the data. These include:
+
+Box plots to visualize the distribution, central tendency, and variability of numerical data.
+Scatter plots to identify relationships and patterns between numerical variables.
+Histograms with KDE (Kernel Density Estimation) to visualize the distribution of numerical data.
+Count plots to visualize the frequency of categorical variables.
+Pair plots to visualize pairwise relationships between numerical variables.
+Correlation Analysis: A correlation matrix was computed and visualized using a heatmap to identify correlations between numerical variables. 
+
+Skewness and Kurtosis Analysis: Skewness and kurtosis were calculated to assess the symmetry and peakedness of the distribution of numerical data. 
+
+Overall, these data exploration techniques were employed to gain insights into the structure, patterns, and relationships within the arrest and crime data for the city of Los Angeles.
 -
 ### Exploring the Data sets
 
