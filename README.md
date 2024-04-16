@@ -34,7 +34,8 @@ This project centers on leveraging data exploration techniques to analyze arrest
 ### Data Dictionary
 
 ### Visualizations
-
+![visulization1](https://github.com/Lalla22/LA-Crime-and-Arrest-Data-Science-Project-Hack4LA-/assets/47159210/c31ee3a5-f75e-4669-b011-a89fead62705)
+![visuilization2](https://github.com/Lalla22/LA-Crime-and-Arrest-Data-Science-Project-Hack4LA-/assets/47159210/99aec3d0-1685-434e-84fe-dfc1c25f00fa)
 
 ## Data 
 - Both data sets are hosted by the city of Los Angeles. The orgainzation has an open data platform [found here](https://data.lacity.org/), and they update thier information according to the amount of data that is brought in. Data was uploaded on to kaggle and can be [found here](https://www.kaggle.com/datasets/cityofLA/los-angeles-crime-arrest-data/data) to download and review.
