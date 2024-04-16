@@ -32,6 +32,8 @@ This project centers on leveraging data exploration techniques to analyze arrest
 ### Exploring the Data sets
 
 ### Data Dictionary
+![datadictionary](https://github.com/Lalla22/LA-Crime-and-Arrest-Data-Science-Project-Hack4LA-/assets/47159210/92dcd1bd-ec55-4abb-b8fb-8d7c1d1a88a4)
+![datadictionary2](https://github.com/Lalla22/LA-Crime-and-Arrest-Data-Science-Project-Hack4LA-/assets/47159210/5d5ec129-20cd-41ed-b9d5-5e9268262829)
 
 ### Visualizations
 ![visulization1](https://github.com/Lalla22/LA-Crime-and-Arrest-Data-Science-Project-Hack4LA-/assets/47159210/c31ee3a5-f75e-4669-b011-a89fead62705)
